@@ -1,0 +1,7 @@
+1. Open V-REP, and then open the scene.
+2. Choose the Laptop position in the environment.
+3. Choose the KJunior position in the environment.
+4. Run the python script 'KJunior.py' using python3.
+5. Start the scene and wait for the KJunior to reach the Laptop.
+6. The python program will exit when Laptop is detected by the KJunior and the simulation will stop.
+
